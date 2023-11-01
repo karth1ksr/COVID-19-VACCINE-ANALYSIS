@@ -65,7 +65,7 @@ Make your changes.
 Submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE)
 
 
 Make sure to customize the file paths, dependency versions, and any other project-specific details to match your GitHub repository's structure and requirements. This README provides a clear structure for users to understand the project, its dataset, dependencies, and how to run it.
