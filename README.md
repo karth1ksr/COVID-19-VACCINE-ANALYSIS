@@ -54,7 +54,7 @@ Run the Jupyter Notebook:
 ```bash
 jupyter notebook
 ```
-Open the 'COVID-19 Vaccines Analysis'.ipynb file and follow the instructions to execute the code cells.
+Open your analysis' .ipynb file and follow the instructions to execute the code cells.
 
 ## Contributing
 Contributions are welcome! If you want to make changes to this project, please follow these guidelines:
